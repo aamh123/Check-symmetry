@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6n3IVSdyTj2" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Check symmetry</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Check_symmetry_ORG">
+    <organization identifier="Check_symmetry_ORG">
+      <title>Check symmetry</title>
+      <item identifier="Check_symmetry_SCO" isvisible="true" identifierref="__6n3IVSdyTj2_RES">
+        <title>Check symmetry</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6n3IVSdyTj2_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5gHkZVBvg6b_90_DX1320_DY1320_CX1039_CY1039.jpg" />
+      <file href="mobile/6FWkTxuovs6_90_DX1320_DY1320_CX1039_CY1039.jpg" />
+      <file href="mobile/6E9I49mdPRS_90_DX1320_DY1320_CX1039_CY1039.jpg" />
+      <file href="mobile/6RtAF7Bk3Nr_90_DX1320_DY1320_CX1039_CY1039.jpg" />
+      <file href="mobile/6qIGRtAaOSj_90_DX1320_DY1320_CX1039_CY1039.jpg" />
+      <file href="mobile/6F5Rb8zFoWa_90_B-10_C10_RC75D10_DX272_DY272_CX204_CY204.png" />
+      <file href="mobile/5h339YKmbnK_90_B-10_C10_RC75D10_DX272_DY272_CX204_CY204.png" />
+      <file href="mobile/6raZYB8KqE3_90_B-10_C10_RC75D10_DX272_DY272_CX204_CY204.png" />
+      <file href="mobile/5dV54RUCHXx_90_B-10_C10_RC75D10_DX272_DY272_CX204_CY204.png" />
+      <file href="mobile/6d26zGUkFXq_90_B-10_C10_RC75D10_DX272_DY272_CX204_CY204.png" />
+      <file href="mobile/6F5Rb8zFoWa_X_90_DX1320_DY1320_CX1039_CY1039.png" />
+      <file href="mobile/5h339YKmbnK_X_90_DX1320_DY1320_CX1039_CY1039.png" />
+      <file href="mobile/6raZYB8KqE3_X_90_DX1320_DY1320_CX1039_CY1039.png" />
+      <file href="mobile/5dV54RUCHXx_X_90_DX1320_DY1320_CX1039_CY1039.png" />
+      <file href="mobile/6d26zGUkFXq_X_90_DX1320_DY1320_CX1039_CY1039.png" />
+      <file href="mobile/6e7MW0JXykl_90_DX2038_DY2038_CX1604_CY1270.png" />
+      <file href="story_content/6NSDxkSuPEv_44100_56_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Slide6ghbHpQtEHC.jpg" />
+      <file href="mobile/Shape5jrWyo2NZtp.png" />
+      <file href="mobile/txt__default_5qqvfOkAYBv.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5vkI7bmUKuB.js" />
+      <file href="html5/data/js/66NJtKscJkR.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
